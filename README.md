@@ -1,1 +1,1 @@
-# js-intro
+# Javascript Intro
